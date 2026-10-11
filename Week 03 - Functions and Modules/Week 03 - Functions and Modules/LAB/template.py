@@ -13,7 +13,6 @@ Delete these instructions as you replace them with your code.
 """
 
 # =================================================================== FUNCTIONS
-#
 def status_of(percent):
     """Return a status based on the percentage."""
     if percent >= 100:
